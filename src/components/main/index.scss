@@ -1,0 +1,21 @@
+.main {
+    display: flex;
+    height: 750px;
+    overflow: auto;
+
+    .content {
+        box-sizing: border-box;
+        width: 50%;
+        padding: 0 30px;
+    }
+
+    .right-content {
+        background: white;
+    }
+
+    .left-content {
+        .translate-btn {
+            margin-top: 10px;
+        }
+    }
+}
