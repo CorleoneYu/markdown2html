@@ -7,3 +7,9 @@ Markdown2html, 顾名思义，就是将 markdown 语法写就的文本转换成 
 1. 词法解析：将 文本 转换成 Token
 2. 语法解析：将 Token 转换成 AST
 3. 生成 html：将 AST 转换成 HTML 节点
+
+## 业界选手
+
+1. markdown-it: js
+2. commonmark: js
+3. lute: go
