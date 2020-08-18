@@ -1,4 +1,4 @@
-import Token, { TokenType, HeaderToken } from './Token';
+import { TokenType, HeaderToken } from './Token';
 
 export class Tokenizer {
   heading = (src: string) => {
